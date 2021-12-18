@@ -1,4 +1,3 @@
-# Dott iOS Take Home Assignment
 
 The app was built using Swift and MVVM architecture. 
 It is designed to get vehicle data from a server that simulates the gRPC API. 
